@@ -14,9 +14,9 @@
 * [真空管](https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%A9%BA%E7%AE%A1)
 * [トランジスタ](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B9%E3%82%BF)
 * [集積回路](https://ja.wikipedia.org/wiki/%E9%9B%86%E7%A9%8D%E5%9B%9E%E8%B7%AF)
+* ![Moore's Law - The number of transistors on integrated circuit chips (1971-2018)](https://upload.wikimedia.org/wikipedia/commons/8/8b/Moore%27s_Law_Transistor_Count_1971-2018.png)
 * [プログラム内蔵方式](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E5%86%85%E8%94%B5%E6%96%B9%E5%BC%8F)
 
-![Moore's Law - The number of transistors on integrated circuit chips (1971-2018)](https://en.wikipedia.org/wiki/Transistor_count#/media/File:Moore's_Law_Transistor_Count_1971-2018.png)
 
 1.7.1 「プログラミングが難しい理由」は珠玉である。でも 5. は理由じゃねえだろ感。
 1. プログラミング言語を構成している概念が分かりにくい
