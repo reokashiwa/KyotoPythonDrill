@@ -101,7 +101,7 @@ class MyFrame(tk.Frame):
         self.start = False
 
         # 日付の描画 , 秒が変わるか、ボタンが押されたとき
-        if self.sec2 != time.localtime().tm_sec or self.toggled or self.toggled_second_hand:
+        if self.sec2 != time.localtime().tm_sec or (self.toggled or self.toggled_second_hand):
             self.sec2 = time.localtime().tm_sec
             x = self.size/2
             y = self.size/2 + 20
@@ -111,7 +111,7 @@ class MyFrame(tk.Frame):
             if self.show_date:
                 self.clock.create_text(x, y, text=text, font=("" ,12), fill="black", tag="TIME")
 
-            if self.show_second_hand:
+            if self.toggled_second_hand:
                 self.display_second_hand()
                                 
             self.toggled = False
